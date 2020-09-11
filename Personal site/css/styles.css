@@ -1,0 +1,82 @@
+/**********************************************************TAGS**********************************************************/
+body {
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  margin: auto;
+  padding-top: 100px;
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: 'Sacramento', cursive;
+    color:#1d2d50;
+}
+h2{
+  color:#1d2d50;
+}
+
+/*************************************************CLASSes*****************************************************************/
+.top-contanier{
+  background-color: #dddddd;
+  margin:0;
+  height: 700px;
+  position: relative;
+}
+.contact-me{
+  width: auto;
+  height: 250px;
+  background-color: #89c9b8;
+  margin:0;
+  padding-top: 50px;
+  position: relative;
+  top: -50px;
+}
+.Mountain-pic{
+  position: relative;
+  text-align: center;
+  width: 50%;
+  height: 80%;
+  bottom: 100px
+}
+.Cloud{
+  position: absolute;
+  left: 163px;
+  bottom: 150px;
+  width: 400px
+}
+.CLOUD{
+  position: absolute;
+  width: 400px;
+  right: 247px;
+  top: 124px;
+
+}
+.doggy{
+  position: absolute;
+  top: 20px;
+  left: 644px;
+}
+.profile{
+  position: relative;
+  padding-top:400px;
+  top:-35px;
+  background-color: #d9adad;
+  margin: 0;
+  height: 104.5px
+}
+.skills{
+  padding-top:40px;
+  background-color: #84a9ac;
+  height: 222px;
+  position:relative;
+  top:-50px;
+}
+.middle-container{
+  position: relative;
+  height: 900px;
+  top: -100px;
+}
+.span{
+  text-decoration: underline;
+  color: blue;
+}
